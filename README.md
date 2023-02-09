@@ -2,7 +2,7 @@
 
 ## Hello Dear..
 
-[IJSE](https://www.ijse.lk/).
+[IJSE](https://www.ijse.lk/)
 
 - 🌱 I’m currently learning Software Engineering at IJSE
 - 💬 Ask me about Any thing about me
