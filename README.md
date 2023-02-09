@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## Hello Dear..
+
 - 🌱 I’m currently learning Software Engineering at IJSE
 - 💬 Ask me about Any thing about me
 - 📫 How to reach me: ashangayeshma@gmail.com
@@ -8,7 +10,7 @@
 **GayeshmaWijerathna/GayeshmaWijerathna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-## Hello Dear..
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
