@@ -2,17 +2,20 @@
 <img align="right" alt="coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
 <h3 align="center">A Trainee Software Engineer From Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gayeshmawijerathna&label=Profile%20views&color=0e75b6&style=flat" alt="gayeshmawijerathna" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayeshmawijerathna" alt="gayeshmawijerathna" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ashan gayeshma" target="blank"><img src="https://img.shields.io/twitter/follow/ashan gayeshma?logo=twitter&style=for-the-badge" alt="ashan gayeshma" /></a> </p>
 
 - 🌱 I’m currently learning **About Software Development**
 
 - 👨‍💻 All of my projects are available at [https://gayeshmawijerathna.github.io/MyPortfolio/](https://gayeshmawijerathna.github.io/MyPortfolio/)
 
 - 📫 How to reach me **ashangayeshma@gmail.com**
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gayeshmawijerathna&label=Profile%20views&color=0e75b6&style=flat" alt="gayeshmawijerathna" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayeshmawijerathna" alt="gayeshmawijerathna" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/ashan gayeshma" target="blank"><img src="https://img.shields.io/twitter/follow/ashan gayeshma?logo=twitter&style=for-the-badge" alt="ashan gayeshma" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
