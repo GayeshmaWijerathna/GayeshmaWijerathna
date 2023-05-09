@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gayeshma Wijayarathna</h1>
+<img align="right" alt="coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
 <h3 align="center">A Trainee Software Engineer From Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayeshmawijerathna&label=Profile%20views&color=0e75b6&style=flat" alt="gayeshmawijerathna" /> </p>
