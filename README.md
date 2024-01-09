@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **About Software Development**
 
-- 👨‍💻 All of my projects are available at [MyPortfolio](https://gayeshmawijerathna.github.io/NewPortfolio/)
+- 👨‍💻 All of my Details Available at [MyPortfolio](https://gayeshmawijerathna.github.io/NewPortfolio/)
 
 - 📫 How to reach me **ashangayeshma@gmail.com**
 
