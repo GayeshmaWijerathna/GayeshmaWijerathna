@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gayeshma Wijayarathna</h1>
 <img align="right" alt="coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
-<h3 align="center">A Trainee Software Engineer From Sri Lanka</h3>
+<h3 align="center">A Software Engineer From Sri Lanka</h3>
 
 
-- 🌱 I’m currently learning **About Software Development**
+- 🌱 I’m currently Working at **Capital Maharaja Group**
 
 - 👨‍💻 All of my Details Available at [MyPortfolio](https://gayeshmawijerathna.github.io/NewPortfolio/)
 
